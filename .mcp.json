@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pokemon-tcg-sim": {
+      "type": "http",
+      "url": "https://pokemon-tcg-sim.fmf-x402.workers.dev/mcp"
+    }
+  }
+}

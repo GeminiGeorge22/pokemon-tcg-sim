@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.GeminiGeorge22/pokemon-tcg-sim",
+  "title": "Pok\u00e9mon TCG Sim",
+  "description": "Pok\u00e9mon TCG simulator: goldfish, prize and draw sims, free Standard/Expanded deck check.",
+  "version": "1.0.0",
+  "websiteUrl": "https://pokemon-tcg-sim.fmf-x402.workers.dev/go/mcp-registry-pokemon-tcg-sim",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://pokemon-tcg-sim.fmf-x402.workers.dev/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/GeminiGeorge22/pokemon-tcg-sim",
+    "source": "github"
+  }
+}
