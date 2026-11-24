@@ -1,5 +1,7 @@
 # Pokémon TCG Sim
 
+[![pokemon-tcg-sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/pokemon-tcg-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/pokemon-tcg-sim)
+
 Pokémon TCG Sim is a **Pokémon Trading Card Game simulator** you add to Claude, ChatGPT, Cursor, or VS Code. Paste a 60-card list and ask: Is this legal in Standard? How often is this card in prizes? Goldfish this list.
 
 Operated by **FMF Tools**.
